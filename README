@@ -1,4 +1,6 @@
 # base16-pywal
 
-This repo includes the template to build colorschemes for pywal from the base16
+This repo includes the template to build colorschemes for pywalfox from the base16
 color palettes.
+
+this is a fork from https://github.com/metalelf0/base16-pywal
